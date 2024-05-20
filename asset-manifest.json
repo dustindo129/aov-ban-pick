@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/aov-ban-pick/static/css/main.e6c13ad2.css",
-    "main.js": "/aov-ban-pick/static/js/main.a1da4816.js",
+    "main.js": "/aov-ban-pick/static/js/main.c98bd472.js",
     "static/js/453.7ba94836.chunk.js": "/aov-ban-pick/static/js/453.7ba94836.chunk.js",
     "index.html": "/aov-ban-pick/index.html",
     "main.e6c13ad2.css.map": "/aov-ban-pick/static/css/main.e6c13ad2.css.map",
-    "main.a1da4816.js.map": "/aov-ban-pick/static/js/main.a1da4816.js.map",
+    "main.c98bd472.js.map": "/aov-ban-pick/static/js/main.c98bd472.js.map",
     "453.7ba94836.chunk.js.map": "/aov-ban-pick/static/js/453.7ba94836.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.a1da4816.js"
+    "static/js/main.c98bd472.js"
   ]
 }
